@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Randy.</h1>
-<h3 align="center">I'm a Jr Software Developer. Check out my Github to see my projects.</h3>
+<h3 align="center">I'm a Software Developer. Check out my Github to see my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyma01&label=Profile%20views&color=0e75b6&style=flat" alt="randyma01" /> </p>
 
