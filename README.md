@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Randy.</h1>
-<h3 align="center">I'm a Software Developer. Check out my Github to see my projects.</h3>
+<h3 align="center">I'm a Software Engineer Check out my GitHub to see my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyma01&label=Profile%20views&color=0e75b6&style=flat" alt="randyma01" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.randy-ms.tech/blog](https://www.randy-ms.tech/blog)
 
-- 💬 Ask me about **web development: full stack.**
+- 💬 Ask me about **web development: full-stack.**
 
 - 📫 How to reach me **ranmartinezs@outlook.com**
 
