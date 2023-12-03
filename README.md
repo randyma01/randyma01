@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.randy-ms.tech/blog](https://www.randy-ms.tech/blog)
 
-- 💬 Ask me about **web development: full-stack devlopment.**
+- 💬 Ask me about **web development: Full-Stack Development.**
 
 - 📫 How to reach me **ranmartinezs@outlook.com**
 
