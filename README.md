@@ -2,6 +2,8 @@
 
 ## Software Engineer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=randyma01&label=Profile%20views&color=0e75b6&style=flat" alt="randyma01" /> </p>
+
 Hi, I’m a Tech Enthusiast passionate about building and evolving digital platforms that drive growth and make a lasting impact. My focus is on creating meaningful, user-centered experiences that benefit both end-users and the company as a whole.
 
 - 🌍  I'm based in Costa Rica.
